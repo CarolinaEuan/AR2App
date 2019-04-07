@@ -1,0 +1,19 @@
+To reference AR2App in publications, please cite the following:
+
+@Article{Paper2018,
+author="Eu{\'a}n, Carolina
+and Ombao, Hernando
+and Ortega, Joaqu{\'i}n",
+title="The Hierarchical Spectral Merger Algorithm: A New Time Series Clustering Procedure",
+journal="Journal of Classification",
+year="2018",
+month="Apr",
+day="01",
+volume="35",
+number="1",
+pages="71--99",
+abstract="We present a new method for time series clustering which we call the Hierarchical Spectral Merger (HSM) method. This procedure is based on the spectral theory of time series and identifies series that share similar oscillations or waveforms. The extent of similarity between a pair of time series is measured using the total variation distance between their estimated spectral densities. At each step of the algorithm, every time two clusters merge, a new spectral density is estimated using the whole information present in both clusters, which is representative of all the series in the new cluster. The method is implemented in an R package HSMClust. We present two applications of the HSM method, one to data coming from wave-height measurements in oceanography and the other to electroencefalogram (EEG) data.",
+issn="1432-1343",
+doi="10.1007/s00357-018-9250-5",
+url="https://doi.org/10.1007/s00357-018-9250-5"
+}
