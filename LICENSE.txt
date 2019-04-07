@@ -1,0 +1,117 @@
+GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+                            Preamble
+  The GNU General Public License is a free, copyleft license for software and other 
+kinds of works.
+  The licenses for most software and other practical works are designed to take away 
+your freedom to share and change the works.  By contrast, the GNU General Public 
+License is intended to guarantee your freedom to share and change all versions of a 
+program--to make sure it remains free software for all its users.  We, the Free 
+Software Foundation, use the GNU General Public License for most of our software; it 
+applies also to any other work released this way by its authors.  You can apply it 
+to your programs, too.
+  When we speak of free software, we are referring to freedom, not price.  Our 
+General Public Licenh), that you receive source code or can get it if you want it, 
+programs, and that you know you can do these things.
+  To protect your rights, we need to prevent others from denying you these rights or 
+asking you to surrender the rights.  Therefore, you have certain responsibilities if 
+you distribute copies of the software, or if you modify it: responsibilities to 
+respect the freedom of othea program, whether gratis or forure that they, too, 
+receive or can get thpers that use the GNU GPL protect your rise giving you legal 
+permission to coarly explains that there is ned versions be marked as changed, so 
+thatSome devices are designed to denufacturer can do so.  This is fundamensystematic 
+pattern of such ceptable.  Therefore, we have designise substantially in other 
+domains, weeded to protect the freedom of u allow patents to restrict development 
+anthe special danger that patents applied to a fes that patents cannot be used to 
+ren modification follow.
+         he GNU General Public License.
+  "Cductor masks.
+  "The Program" refers to".  "Licensees" and "recipientsart of the work in a fashion 
+requiring ed a "modified version" of the eared Program or a work based on the 
+Program.
+  To make you directly or secondariodifying a private copy.  Propagation includes 
+copylic, and in some countries othies to make or receive copies.  eying.
+  An interactive user inteminently visible feature that (1) displays the work 
+(except to the extent th view a copy of this License.  If
+ the list meets this criteriong modifications to it.  "ther is an official standard 
+defined byogramming language, one that is widely used ae work include anything, 
+other than th but which is not part of that Major mplement a Standard Interface for 
+in this context, means a major essenon which the executable work runs, or 
+a"Corresponding Source" for able work) run the object code and to modifde the work's 
+System Libraries, or genrming those activities but which are not ps associated with 
+source filese work is specifically designed to re other parts of the work.
+  Ter parts of the Corresponding Permissions.
+  All rights grprovided the stated condition.  The output from running a cd work.  
+This License acknowledun and propagate covered worksou may convey covered works to 
+with facilities for running thowhich you do not control copyright.  Tf, under your 
+direction and control, ir relationship with you.
+  Colicensing is not allowed; sectNo covered work shall be deemed article 11 of the 
+WIPO copyright treaty adopted on 20 f such measures.
+  When you conto the extent such circumvention isclaim any intention to limit othird 
+parties' legal rights toy verbatim copies of the Prograly publish on each copy an e 
+terms added in accord with secipients a copy of this Liceand you may offer support 
+or wased on the Program, or the4, provided that you also meet it, and giving a 
+relevantense and any conditions addedll notices".
+    c) You must a copy.  This
+    License wilork, and all its parts,
+    ry other way, but it does not ive user interfaces, each must do not display 
+Appropriate Legal Notr separate and independent works,it such as to form a larger 
+pilation and its resulting copyindividual works permit.  Incl the aggregate.
+  6. Conveyinns 4 and 5, provided that you hese ways:
+    a) Convey the obje accompanied by the
+    Correspon b) Convey the object code in, or by a
+    written offer, valid for ator that product
+    model, to give l the software in the
+    produce interchange, for a price no
+    mccess to copy the
+    Correspode with a copy of the
+    wrand noncommercially, and
+    only if yConvey the object code by offering access from ahe
+    Corresponding Source in the sa copy the
+    Corresponding Soure Corresponding Source
+    may be ofacilities, provided you mainta.  Regardless of what server hoslong as 
+needed to satisfy thesenform other peers where the object code charge under 
+subsection 6d.
+  A sepaource as a System Library, need product", which means any tangible per 
+anything designed or sold for incorporcases shall be resolved in favor of cov a 
+typical or common use of that class rticular user actually uses, or expectser the 
+product has substantial commerc of use of the product.
+  "Installatiother information required to install ann of its Corresponding Source.  
+The infe is in no case prevented or interfereder this section in, or with, or 
+specifiich the right of possession and use of tdless of how the 
+transactioInstallation Information.  But this modified object code on the Usellation 
+Information does not inchas been modified or installea network may be denied when 
+the mhe rules and protocols for communided, in accord with this sectionublic in 
+source code form), and ms.
+  "Additional permissions" areconditions. Additional permissionis License, to the 
+extent that, that part may be used separately underrd to the additional permissions.
+  Wheissions from that copy, or fcases when you modify the work.)  Yu have or can 
+give appropriated to a covered work, you may (if auth terms:
+    a) Disclaiming warranty or lim or
+    b) Requiring preservation of spppropriate Legal
+    Notices displayed terial, or
+    requiring that modified version; or
+    d) Limiting the use foclining to grant rights under trademarkindemnification of 
+licensors and author) with contractual assumptions of liabiliimpose on
+    those licensors and authorthin the meaning of section 10.  If the Program rned 
+by this License along with a tera further restriction but permits rely the terms of 
+that license documef you add terms to a covered work in accord with this section, 
+you must place, in the relevant source files, a statement of the additional terms 
+that apply to those files, or a notice indicating where to find the applicable 
+terms.
+  Additional terms, permissive or non-permissive, may be stated in the form of a 
+separately written license, or stated as exceptions; the above requirements apply 
+either way.
+  8. Termination.
+  You may not propagate or modify a covered work except as expressly provided under 
+this License.  Any attempt otherwise to propagate or modify it is void, and will 
+automatically terminate your rights under this License (including any patent 
+licenses granted under the third paragraph of section 11).
+  However, if you cease all violation of this License, then your license from a 
+particular copyright holder is reinstated (a) provisionally, unless and until the 
+copyright holder explicitly and finally terminates your license, and (b) 
+permanently, if the copyright
+holder fails to notify you o
